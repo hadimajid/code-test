@@ -1,1 +1,10 @@
 
+Comments about test:
+ 1. Test was too lengthy it should not be that lengthy.
+ 
+ 
+ Comments about code:
+ 1. Too much repeated code.
+ 2. Unnecessary if else were used
+ 3. Complex queries while we can write them shorter.
+
